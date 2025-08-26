@@ -12,7 +12,7 @@ tagline = "Student in Mechanical Engineering"
 location = "Le Mans, France"
 email = "siem@mail.com"
 profile_image = "/images/siem-profile.jpeg"
-description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
+description = "As a student of mechanical and production engineering, I engage with the tools and techniques that shape today's and tomorrow's industry."
 author = "Siem Mhreteab"
 
 og_image = "images/felipecordero-og.png"
@@ -37,7 +37,7 @@ resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
-formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
+formspree_endpoint = "https://formspree.io/f/" # Change to your Formspree endpoint
 
 # Technical skills configuration
 [params.technical_skills]
