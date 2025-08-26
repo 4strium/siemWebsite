@@ -1,4 +1,4 @@
-baseURL = "https://felipecordero.com"
+baseURL = "https://siemmhreteab.netlify.app/"
 languageCode = "en-us"
 title = "Siem MHRETEAB"
 theme = "careercanvas"
@@ -23,7 +23,7 @@ hero_location = "Le Mans, France"
 linkedin_url = "https://www.linkedin.com/in/siem-mhreteab-43b622266/"
 linkedin_text = "linkedin.com/in/siem-mhreteab/"
 
-copyright = "© 2025 | Siem Mhreteab"
+copyright = '© 2025 | Made with ❤️ by Romain MELLAZA'
 
 collab_tags = [
   "Computer-aided design (CAD)",
