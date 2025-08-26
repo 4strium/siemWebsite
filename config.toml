@@ -1,0 +1,93 @@
+baseURL = "https://felipecordero.com"
+languageCode = "en-us"
+title = "Siem MHRETEAB"
+theme = "careercanvas"
+
+[build]
+  writeStats = true
+
+[params]
+name = "Siem MHRETEAB"
+tagline = "Student in Mechanical Engineering"
+location = "Le Mans, France"
+email = "siem@mail.com"
+profile_image = "/images/siem-profile.jpeg"
+description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
+author = "Siem Mhreteab"
+
+og_image = "images/felipecordero-og.png"
+
+hero_description = "I am pursuing a Bachelor of Technology in Mechanical and Production Engineering (BUT GMP) at IUT Le Mans. This three-year, practice-oriented program emphasizes design, manufacturing, and industrial production."
+hero_location = "Le Mans, France"
+
+linkedin_url = "https://www.linkedin.com/in/siem-mhreteab-43b622266/"
+linkedin_text = "linkedin.com/in/siem-mhreteab/"
+
+copyright = "© 2025 | Siem Mhreteab"
+
+collab_tags = [
+  "Computer-aided design (CAD)",
+  "Machining",
+  "Metrology",
+  "Production management",
+  "Visual Basic for Applications (VBA)"
+]
+
+resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
+resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
+resume_label = "View CV"
+
+formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
+
+# Technical skills configuration
+[params.technical_skills]
+# FontAwesome brand icons (for special icons like Python, JS, etc.)
+brand_icons = ["python", "js", "html5", "css3-alt", "linux", "docker", "github", "gitlab"]
+
+[[params.social]]
+icon = "linkedin-in"
+url = "https://www.linkedin.com/in/siem-mhreteab-43b622266/"
+
+
+sectionPagesMenu = 'main'
+
+[[menu.main]]
+  name = "About"
+  url = "/#about"
+  weight = 2
+
+[[menu.main]]
+  name = "Skills"
+  url = "/#skills"
+  weight = 3
+
+[[menu.main]]
+  name = "Experience"
+  url = "/#experience"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/#contact"
+  weight = 5
+
+[[menu.main]]
+  name = "Technical Skills"
+  url = "/#technical"
+  weight = 4.5
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[server]
+  [[server.headers]]
+    for = "/**/*.css"
+    [server.headers.values]
+      Content-Type = "text/css"
