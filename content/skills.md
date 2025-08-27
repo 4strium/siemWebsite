@@ -5,8 +5,6 @@ intro: >-
   For me, people always remain at the heart of the interactions and ideas that shape the industry of the future.
 
 domains:
-
-
   - icon: "tools"
     title: "Engineering Expertise"
     description: "Applying mechanical engineering knowledge with modern technology to create innovative solutions for complex engineering challenges."

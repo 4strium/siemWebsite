@@ -11,8 +11,12 @@ technical_groups:
     skills:
       - icon: "cubes"
         name: "Solidworks"
+      - icon: "project-diagram"    
+        name: "MECA3D"
       - icon: "cubes"
         name: "CATIA"
+      - icon: "cubes"
+        name: "TopSolid"
       - icon: "toolbox"
         name : "Computer Aided Manufacturing" 
 
@@ -27,7 +31,7 @@ technical_groups:
       - icon: "tachometer-alt"
         name: "High-speed Machining"
       - icon: "scissors"
-        name: "Plasma/laser Cutting"
+        name: "Laser Cutting"
       - icon: "hammer"
         name: "Stamping Presses"
       - icon: "cube"
