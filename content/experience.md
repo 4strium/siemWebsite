@@ -72,7 +72,7 @@ positions:
   - company: "Tuludimtu Restaurant & Cafeteria"
     company_url: ""
     role: "Versatile Server"
-    period: "Before"
+    period: "October 2018 - June 2019"
     industry: "Catering"
     location: "Addis Ababa, Ethiopia"
     company_description: ""
