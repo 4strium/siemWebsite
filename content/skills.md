@@ -1,23 +1,23 @@
 ---
-title: "Skills"
+title: "Compétences"
 type: "homepage"
 intro: >-
-  For me, people always remain at the heart of the interactions and ideas that shape the industry of the future.
+  Pour moi, les personnes restent toujours au cœur des interactions et des idées qui façonnent l'industrie de demain.
 
 domains:
   - icon: "tools"
-    title: "Engineering Expertise"
-    description: "Applying mechanical engineering knowledge with modern technology to create innovative solutions for complex engineering challenges."
+    title: "Expertise en ingénierie"
+    description: "Appliquer des connaissances en génie mécanique avec des technologies modernes pour créer des solutions innovantes à des défis d'ingénierie complexes."
 
   - icon: "users"
-    title: "Leadership & Project Management"
-    description: "During my academic studies, I consistently showcased and applied my strengths at the core of group projects."
+    title: "Leadership & gestion de projet"
+    description: "Pendant mes études, j'ai régulièrement démontré et mis en œuvre mes compétences au cœur de projets de groupe."
 
   - icon: "globe"
-    title: "International Experience"
-    description: "As a native Amharic and Tigrinya speaker, I have developed my English and French skills through interaction with others to achieve a level of fluency comparable to that of a native speaker."
+    title: "Expérience internationale"
+    description: "En tant que locuteur natif amharique et tigrinya, j'ai développé mes compétences en anglais et en français par l'échange avec les autres, atteignant un niveau de fluidité proche du natif."
 
   - icon: "hands-helping"
-    title: "Community & Learning"
-    description: "Community life is undoubtedly one of the most important foundations of modern societies; expression is the key, which is why I developed this quality by participating in a theatre troupe."
+    title: "Communauté & apprentissage"
+    description: "La vie communautaire est sans doute l'une des fondations les plus importantes des sociétés modernes ; l'expression en est la clé, c'est pourquoi j'ai développé cette qualité en participant à une troupe de théâtre."
 ---

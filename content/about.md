@@ -1,33 +1,33 @@
 ---
-title: "About"
+title: "À propos"
 type: "homepage"
 featured_image: "/images/siem-profile.jpeg"
 intro: >-
-  Hi! I'm Siem Mhreteab, a Mechanical and Production Engineering (GMP) student. I am currently seeking an internship to put my skills into practice; please feel free to contact me!
+  Bonjour ! Je suis Siem Mhreteab, étudiant en Génie Mécanique et Productique (GMP). Je suis actuellement à la recherche d'un stage pour mettre mes compétences en pratique ; n'hésitez pas à me contacter !
 
 study: >-
-  Currently based in **Le Mans** 🇫🇷.
+  Actuellement basé à **Le Mans** 🇫🇷.
 
-passion_title: "What drives me professionally..."
+passion_title: "Ce qui me motive professionnellement..."
 passion_text: >-
-  I am rigorous, motivated, and passionate about designing and machining industrial parts.
+  Je suis rigoureux, motivé et passionné par la conception et l'usinage de pièces industrielles.
 
 mix: >-
 
 personal: >-
-  Outside work, I enjoy **judo** 🥋, **cycling** 🚴, **athletics** 🏃🏽, **chess** ♟️, **reading** 📚 and **traveling** ✈️.
+  En dehors du travail, j'apprécie le **judo** 🥋, le **cyclisme** 🚴, l'**athlétisme** 🏃🏽, les **échecs** ♟️, la **lecture** 📚 et les **voyages** ✈️.
 
 quickfacts:
   - icon: "briefcase"
-    title: "Current Role"
-    value: "👨🏽‍🎓 Student"
+    title: "Rôle actuel"
+    value: "👨🏽‍🎓 Étudiant"
   - icon: "graduation-cap"
-    title: "Education"
-    value: "🏫 <a href=\"https://iut.univ-lemans.fr/fr/departements/genie-mecanique-et-productique.html\" target=\"_blank\" rel=\"noopener noreferrer\">University Institute of Technology of Le Mans</a>, **Bachelor of Technology in Mechanical and Production Engineering**<br>📚 <a href=\"https://www.lycee-vauban-brest.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">Vauban High School, Brest</a>, **General Baccalaureate, Mathematics and Physics-Chemistry**"
+    title: "Formation"
+    value: "🏫 <a href=\"https://iut.univ-lemans.fr/fr/departements/genie-mecanique-et-productique.html\" target=\"_blank\" rel=\"noopener noreferrer\">Institut Universitaire de Technologie du Mans</a>, **Bachelor of Technology en Génie mécanique et productique**<br>📚 <a href=\"https://www.lycee-vauban-brest.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">Lycée Vauban, Brest</a>, **Baccalauréat général, Mathématiques et Physique-Chimie**"
   - icon: "language"
-    title: "Languages"
-    value: "**English** (Full Professional), **French** (Native), **Amharic** (Native), **Tigrinya** (Native), **Spanish** (Limited working)"
+    title: "Langues"
+    value: "**Anglais** (professionnel), **Français** (natif), **Amharique** (natif), **Tigrinya** (natif), **Espagnol** (compétence professionnelle limitée)"
   - icon: "heart"
-    title: "Interests"
-    value: "🏎️ **Cars**  ♟️ **Chess**  🥋 **Judo**  🚴 **Cycling**<br> 📸 **Photography**  ✈️ **Traveling**  📚 **Reading**"
+    title: "Centres d'intérêt"
+    value: "🏎️ **Voitures**  ♟️ **Échecs**  🥋 **Judo**  🚴 **Cyclisme**<br> 📸 **Photographie**  ✈️ **Voyages**  📚 **Lecture**"
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Technical Skills"
+title: "Compétences techniques"
 type: "homepage"
 intro: >-
-  As a student of mechanical and production engineering, I engage with the tools and techniques that shape today's and tomorrow's industry.
+  En tant qu'étudiant en génie mécanique et productique, j'utilise les outils et techniques qui façonnent l'industrie d'aujourd'hui et de demain.
 
 technical_groups:
-  - title: "Computer Aided Design"
+  - title: "Conception assistée par ordinateur"
     icon: "computer"
     color_scheme: "red"
     skills:
@@ -18,43 +18,43 @@ technical_groups:
       - icon: "cubes"
         name: "TopSolid"
       - icon: "toolbox"
-        name : "Computer Aided Manufacturing" 
+        name : "Fabrication Assistée par Ordinateur (FAO)"
 
-  - title: "Machining"
+  - title: "Usinage"
     icon: "screwdriver"
     color_scheme: "red"
     skills:
       - icon : "window-restore"
-        name: "CNC Machines"
+        name: "Machines CNC"
       - icon: "industry"
-        name: "Press Brakes"
+        name: "Pliage (presses plieuses)"
       - icon: "tachometer-alt"
-        name: "High-speed Machining"
+        name: "Usinage à grande vitesse"
       - icon: "scissors"
-        name: "Laser Cutting"
+        name: "Découpe laser"
       - icon: "hammer"
-        name: "Stamping Presses"
+        name: "Presses d'emboutissage"
       - icon: "cube"
-        name: "3D Printers"
+        name: "Imprimantes 3D"
 
-  - title: "Production Management"
+  - title: "Gestion de la production"
     icon: "network-wired"
     color_scheme: "orange"
     skills:
       - icon: "calendar-check"
-        name: "Scheduling"
+        name: "Planification"
       - icon: "boxes"
-        name: "Procurement"
+        name: "Approvisionnement"
       - icon: "tools"
-        name: "Methods"
+        name: "Méthodes"
       - icon: "clipboard-check"
-        name: "Quality"
+        name: "Qualité"
       - icon: "ruler"
-        name: "Metrology"
+        name: "Métrologie"
       - icon: "industry"
-        name: "Industrial Organization"
+        name: "Organisation industrielle"
 
-  - title: "Programming Languages"
+  - title: "Langages de programmation"
     icon: "code"
     color_scheme: "purple"
     skills:
