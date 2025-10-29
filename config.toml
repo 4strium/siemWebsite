@@ -1,5 +1,5 @@
 baseURL = "https://siemmt.com/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 title = "Siem MHRETEAB"
 theme = "careercanvas"
 
@@ -8,34 +8,34 @@ theme = "careercanvas"
 
 [params]
 name = "Siem MHRETEAB"
-tagline = "Student in Mechanical Engineering"
+tagline = "Étudiant en génie mécanique"
 location = "Le Mans, France"
 email = "siem21@outlook.fr"
 profile_image = "/images/siem-profile.jpeg"
-description = "As a student of mechanical and production engineering, I engage with the tools and techniques that shape today's and tomorrow's industry."
+description = "En tant qu'étudiant en génie mécanique et productique, j'utilise les outils et techniques qui façonnent l'industrie d'aujourd'hui et de demain."
 author = "Siem Mhreteab"
 
 og_image = "images/siem-og-image.png"
 
-hero_description = "I am pursuing a Bachelor of Technology in Mechanical and Production Engineering (BUT GMP) at IUT Le Mans. This three-year, practice-oriented program emphasizes design, manufacturing, and industrial production."
+hero_description = "Je prépare un Bachelor of Technology en Génie mécanique et productique (BUT GMP) à l'IUT du Mans. Ce programme de trois ans, axé sur la pratique, met l'accent sur la conception, la fabrication et la production industrielle."
 hero_location = "Le Mans, France"
 
 linkedin_url = "https://www.linkedin.com/in/siem-mhreteab-43b622266/"
 linkedin_text = "linkedin.com/in/siem-mhreteab/"
 
-copyright = '© 2025 | Made with ❤️ by Romain MELLAZA'
+copyright = '© 2025 | Fait avec ❤️ par Romain MELLAZA'
 
 collab_tags = [
-  "Computer-aided design (CAD)",
-  "Machining",
-  "Metrology",
-  "Production management",
+  "Conception assistée par ordinateur (CAO)",
+  "Usinage",
+  "Métrologie",
+  "Gestion de la production",
   "Visual Basic for Applications (VBA)"
 ]
 
 resume_url_en = "/files/CV_Siem_Mhreteab_EN.pdf"
 resume_url_fr = "/files/CV_Siem_Mhreteab_FR.pdf"
-resume_label = "View CV"
+resume_label = "Voir le CV"
 
 formspree_endpoint = "https://formspree.io/f/xvgbgprq" # Change to your Formspree endpoint
 
@@ -52,17 +52,17 @@ url = "https://www.linkedin.com/in/siem-mhreteab-43b622266/"
 sectionPagesMenu = 'main'
 
 [[menu.main]]
-  name = "About"
+  name = "À propos"
   url = "/#about"
   weight = 2
 
 [[menu.main]]
-  name = "Skills"
+  name = "Compétences"
   url = "/#skills"
   weight = 3
 
 [[menu.main]]
-  name = "Experience"
+  name = "Expérience"
   url = "/#experience"
   weight = 4
 
@@ -72,7 +72,7 @@ sectionPagesMenu = 'main'
   weight = 5
 
 [[menu.main]]
-  name = "Technical Skills"
+  name = "Compétences techniques"
   url = "/#technical"
   weight = 4.5
 
