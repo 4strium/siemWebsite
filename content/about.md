@@ -23,7 +23,7 @@ quickfacts:
     value: "👨🏽‍🎓 Étudiant"
   - icon: "graduation-cap"
     title: "Formation"
-    value: "🏫 <a href=\"https://iut.univ-lemans.fr/fr/departements/genie-mecanique-et-productique.html\" target=\"_blank\" rel=\"noopener noreferrer\">Institut Universitaire de Technologie du Mans</a>, **Bachelor of Technology en Génie mécanique et productique**<br>📚 <a href=\"https://www.lycee-vauban-brest.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">Lycée Vauban, Brest</a>, **Baccalauréat général, Mathématiques et Physique-Chimie**"
+    value: "🏫 <a href=\"https://iut.univ-lemans.fr/fr/departements/genie-mecanique-et-productique.html\" target=\"_blank\" rel=\"noopener noreferrer\">Institut Universitaire de Technologie du Mans</a>, **Bachelor universitaire de Technologie en Génie mécanique et productique**<br>📚 <a href=\"https://www.lycee-vauban-brest.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">Lycée Vauban, Brest</a>, **Baccalauréat général, Mathématiques et Physique-Chimie**"
   - icon: "language"
     title: "Langues"
     value: "**Anglais** (professionnel), **Français** (natif), **Amharique** (natif), **Tigrinya** (natif), **Espagnol** (compétence professionnelle limitée)"
