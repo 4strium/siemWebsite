@@ -7,11 +7,8 @@
     <!-- Resume Download Buttons -->
     <div class="text-center mb-12">
       <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 justify-center">
-        {{ $resumeLabel := .Params.resume_label }}
-        {{ $buttonClass := "flex items-center justify-center bg-gradient-to-r from-blue-600 to-blue-700
-        dark:from-blue-500 dark:to-blue-600 text-white text-lg px-6 py-4 rounded-lg font-semibold shadow-lg
-        hover:from-blue-700 hover:to-blue-800 dark:hover:from-blue-600 dark:hover:to-blue-700 transition-all
-        duration-300 transform hover:scale-105" }}
+  {{ $resumeLabel := .Params.resume_label }}
+  {{ $buttonClass := "flex items-center justify-center bg-gradient-to-r from-blue-600 to-blue-700 dark:from-blue-500 dark:to-blue-600 text-white text-lg px-6 py-4 rounded-lg font-semibold shadow-lg hover:from-blue-700 hover:to-blue-800 dark:hover:from-blue-600 dark:hover:to-blue-700 transition-all duration-300 transform hover:scale-105" }}
 
         <a href="{{ .Params.resume_url_en }}" target="_blank" rel="noopener noreferrer" class="{{ $buttonClass }}">
           <i class="fas fa-file-pdf text-2xl mr-3"></i>
