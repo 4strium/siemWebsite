@@ -37,7 +37,7 @@ resume_url_en = "/files/CV_Siem_Mhreteab_EN.pdf"
 resume_url_fr = "/files/CV_Siem_Mhreteab_FR.pdf"
 resume_label = "Voir le CV"
 
-formspree_endpoint = "https://formspree.io/f/xvgbgprq" # Change to your Formspree endpoint
+formspree_endpoint = "https://formspree.io/f/mnnogrop" # Change to your Formspree endpoint
 
 # Technical skills configuration
 [params.technical_skills]
